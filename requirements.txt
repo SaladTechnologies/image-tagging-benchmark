@@ -8,3 +8,4 @@ pandas
 plotly
 tabulate
 kaleido
+urllib3
