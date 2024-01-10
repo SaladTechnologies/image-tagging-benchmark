@@ -1,0 +1,10 @@
+setuptools
+IPython
+ipywidgets
+boto3
+ipykernel
+requests
+pandas
+plotly
+tabulate
+kaleido
